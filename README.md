@@ -35,7 +35,8 @@ class About extends Me
     }
 }
 ```
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![Joao's github stats](https://github-readme-stats.vercel.app/api?username=Joaovbf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
