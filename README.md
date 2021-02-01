@@ -37,11 +37,11 @@ class About extends Me
 ```
 <!--START_SECTION:waka-->
 ```text
-PHP          8 hrs 32 mins   ████████████████████▒░░░░   80.80 % 
-Vue.js       1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+PHP          10 hrs 23 mins  ████████████████████░░░░░   79.91 % 
+Vue.js       2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 % 
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 [![Joao's github stats](https://github-readme-stats.vercel.app/api?username=Joaovbf)](https://github.com/anuraghazra/github-readme-stats)
