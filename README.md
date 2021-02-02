@@ -5,11 +5,11 @@ namespace Joaovbf;
 
 class About extends Me
 {
-    public function getMostRecentWorkplace(){
+    public function getWorkplace(){
         return [
             'workplace' => [
-                'company' => 'Adapti Soluções Web',
-                'position' => 'CTO'
+                'company' => 'Ensinio',
+                'position' => 'Junior Back-end Developer'
             ],
         ];
     }
@@ -27,6 +27,7 @@ class About extends Me
     public function getCurrentLearning(){
         return [
             Vuejs::class,
+            LaravelNova::class
         ];
     }
 
