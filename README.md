@@ -38,9 +38,9 @@ class About extends Me
 ```
 <!--START_SECTION:waka-->
 ```text
-PHP              17 hrs 15 mins  ██████████████████████▓░░   91.00 % 
-Other            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+PHP              16 hrs 1 min    █████████████████████▓░░░   86.77 % 
+Other            1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+JSON             37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Blade Template   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
