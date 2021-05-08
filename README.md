@@ -38,8 +38,8 @@ class About extends Me
 ```
 <!--START_SECTION:waka-->
 ```text
-PHP          2 hrs           ████████████████████████░   96.63 % 
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+PHP          2 hrs 23 mins   ████████████████████████▒   97.17 % 
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
 [![Joao's github stats](https://github-readme-stats.vercel.app/api?username=Joaovbf)](https://github.com/anuraghazra/github-readme-stats)
