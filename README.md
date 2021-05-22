@@ -38,7 +38,7 @@ class About extends Me
 ```
 <!--START_SECTION:waka-->
 ```text
-PHP     20 mins         ████████████████████████▓   98.97 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 [![Joao's github stats](https://github-readme-stats.vercel.app/api?username=Joaovbf)](https://github.com/anuraghazra/github-readme-stats)
