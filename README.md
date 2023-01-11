@@ -8,8 +8,8 @@ class About extends Me
     public function getWorkplace(){
         return [
             'workplace' => [
-                'company' => 'Ensinio',
-                'position' => 'Product Manager'
+                'company' => 'Simonetti',
+                'position' => 'Web Developer'
             ],
         ];
     }
